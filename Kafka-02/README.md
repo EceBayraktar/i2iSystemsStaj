@@ -11,3 +11,9 @@
 ![Ekran Alıntısı4](https://github.com/user-attachments/assets/2a8a78fb-9a86-4353-8872-95e38b630828)
 
 
+//GOOGLE CLOUD
+
+![image](https://github.com/user-attachments/assets/9f50b718-f655-4f9b-b463-bf0708423b2b)
+
+
+
