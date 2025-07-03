@@ -1,0 +1,4 @@
+com\example\kafka\Student.class
+com\example\kafka\App.class
+com\example\kafka\StudentProducer.class
+com\example\kafka\StudentConsumer.class
