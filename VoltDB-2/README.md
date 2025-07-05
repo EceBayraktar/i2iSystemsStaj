@@ -1,5 +1,7 @@
 //docker network create voltLocalCluster
+
 //docker pull full360/docker-voltdb-ce
+
 //docker run -P -e BUSY_COUNT=1 -e HOSTS=node1 --name=node1 --network=voltLocalCluster full360/docker-voltdb-ce:latest
 
 //Local de oluşturma 
