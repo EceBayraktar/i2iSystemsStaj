@@ -40,6 +40,16 @@ docker run -d \
   --network=voltLocalCluster \
   full360/docker-voltdb-ce
 
+## VoltDB'yi Test Et
+Container’a bağlanıp SQL komutları ile test edin:
+
+docker exec -it node1-clean sqlcmd
+
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/2a81b505-0cb9-4f01-bc96-310b98437f1e)
 
