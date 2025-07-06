@@ -25,7 +25,6 @@ Google Cloud > VPC Network > Firewall > "Create Firewall Rule" diyerek aşağıd
 
 Terminale aşağıdaki komutları sırasıyla yazın:
 
-```bash
 # Docker ağı oluştur
 docker network create voltLocalCluster
 
@@ -40,10 +39,11 @@ docker run -d \
   --network=voltLocalCluster \
   full360/docker-voltdb-ce
 
-## VoltDB'yi Test Et
-Container’a bağlanıp SQL komutları ile test edin:
+# **VoltDB SQL Arayüzü ile Test**
+  
+  docker exec -it node1-clean sqlcmd
 
-docker exec -it node1-clean sqlcmd
+
 
 
 
