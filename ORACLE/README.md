@@ -55,5 +55,5 @@ Bulut ortamındaysa:
 https://<sunucu_ip_adresi>:5500/em
 
 İlk bağlantıda güvenlik uyarısını geç (self-signed sertifika).
+
 ![OracleWeb](https://github.com/user-attachments/assets/b2316e8c-6063-4030-a164-b63ac816b073)
-![DB](https://github.com/user-attachments/assets/a5099330-7e5c-4aa7-8b37-c3ea12df4fd3)
