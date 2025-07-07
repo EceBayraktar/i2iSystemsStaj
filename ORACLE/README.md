@@ -24,7 +24,7 @@ git clone https://github.com/oracle/docker-images.git
 cd docker-images/OracleDatabase/SingleInstance/dockerfiles
 ./buildContainerImage.sh -v 21.3.0 -x
 
-##** 2. Docker Container Çalıştırma **
+## 2. Docker Container Çalıştırma **
 docker run --name oraclexe -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=ORACLE -d oracle/database:21.3.0-xe
 
 
