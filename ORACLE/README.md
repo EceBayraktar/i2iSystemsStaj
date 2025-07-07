@@ -25,6 +25,11 @@ cd docker-images/OracleDatabase/SingleInstance/dockerfiles
 ./buildContainerImage.sh -v 21.3.0 -x
 
 
+
+
+
+
+
 #**2. Docker Container Çalıştırma **
 docker run --name oraclexe -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=ORACLE -d oracle/database:21.3.0-xe
 
@@ -42,7 +47,6 @@ https://localhost:5500/em
 
 Bulut ortamındaysa:
 https://<sunucu_ip_adresi>:5500/em
-
 
 İlk bağlantıda güvenlik uyarısını geç (self-signed sertifika).
 ![OracleWeb](https://github.com/user-attachments/assets/b2316e8c-6063-4030-a164-b63ac816b073)
