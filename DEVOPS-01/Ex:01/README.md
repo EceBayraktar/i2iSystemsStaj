@@ -1,4 +1,4 @@
-
+### Please describe Configuration as Code (CaC) ve Infrastructre as Code (IaC) kavramlarını bir örnekle açıklayınız.**
 ### Configuration as Code (CaC) Nedir?
 
 **Configuration as Code (CaC)**, sistem konfigürasyonlarının kod olarak tanımlanması ve yönetilmesi yaklaşımıdır. Bu yöntem, sistem ayarlarını, yapılandırma dosyalarını veya hizmet konfigürasyonlarını manuel olarak düzenlemek yerine, bunları programatik olarak kod dosyalarıyla tanımlamayı ve otomatikleştirmeyi sağlar. CaC, genellikle yazılım geliştirme süreçlerinde DevOps ve CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) yaklaşımlarıyla birlikte kullanılır. Bu sayede konfigürasyonlar versiyonlanabilir, tekrar kullanılabilir ve otomatik olarak uygulanabilir hale gelir.
